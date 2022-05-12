@@ -1,0 +1,5 @@
+registered user, small amount,true,100060,30
+registered user, bonus over limit,true,100000060,500
+unregistered user, small amount,false,100020,10
+unregistered user, bonus over limit,false,19000015,500
+unregistered user, minimal amount,false,1,0
